@@ -1,0 +1,8 @@
+{
+  "name": "drone-workshop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/go-training/drone-workshop.git",
+  "author": "Bo-Yi Wu <appleboy.tw@gmail.com>",
+  "license": "MIT"
+}
