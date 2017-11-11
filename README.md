@@ -1,3 +1,3 @@
 # drone-workshop
 
-Drone wrokshop in NCTU
+Drone wrokshop in NCTU.
