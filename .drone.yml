@@ -1,0 +1,6 @@
+pipeline:
+  step1:
+    image: mhart/alpine-node:9.1.0
+    commands:
+      - node -v
+      - yarn version
