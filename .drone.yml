@@ -3,4 +3,4 @@ pipeline:
     image: mhart/alpine-node:9.1.0
     commands:
       - node -v
-      - yarn version
+      - yarn install
